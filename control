@@ -1,0 +1,10 @@
+Package: com.captinc.wallpaperchanger
+Name: WallpaperChanger
+Version: 1.0
+Depends: firmware (>=11.0)
+Author: Capt Inc
+Maintainer: Capt Inc
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Change wallpaper from command line
+Depiction: https://captinc.github.io/depictions/wallpaperchanger.html
