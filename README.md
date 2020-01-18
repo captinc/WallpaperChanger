@@ -1,11 +1,11 @@
-# WallpaperChanger v1.0
+# WallpaperChanger v1.0.1
 Compatible with iOS 11.0+. Type `wallpaper` into Terminal to get started
 
 Repo: [https://captinc.github.io/](https://captinc.github.io/)
 
 Price: **Free!**
 
-[Direct .deb download](https://github.com/captinc/WallpaperChanger/releases/download/v1.0/com.captinc.wallpaperchanger_1.0_iphoneos-arm.deb)
+[Direct .deb download](https://github.com/captinc/WallpaperChanger/releases/download/v1.0.1/com.captinc.wallpaperchanger_1.0.1_iphoneos-arm.deb)
 
 [Reddit post](https://www.reddit.com/r/jailbreak/comments/eguyrg/release_wallpaperchanger_change_wallpaper_from/)
 
