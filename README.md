@@ -3,11 +3,11 @@ Change wallpaper from command line. Type `wallpaper` into Terminal to get starte
 
 Compatible with iOS 11.0+
 
-Repo: [https://captinc.github.io/](https://captinc.github.io/)
+Repo: [https://captinc.github.io](https://captinc.github.io)
 
 [Direct .deb download](https://github.com/captinc/WallpaperChanger/releases/download/v1.0.1/com.captinc.wallpaperchanger_1.0.1_iphoneos-arm.deb)
 
-[Reddit post](https://www.reddit.com/r/jailbreak/comments/eguyrg/release_wallpaperchanger_change_wallpaper_from/)
+[Reddit post](https://www.reddit.com/r/jailbreak/comments/eguyrg/release_wallpaperchanger_change_wallpaper_from)
 
 # How to compile
 1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS/) on your Mac
