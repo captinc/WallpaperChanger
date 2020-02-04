@@ -10,7 +10,7 @@ Repo: [https://captinc.github.io](https://captinc.github.io)
 [Reddit post](https://www.reddit.com/r/jailbreak/comments/eguyrg/release_wallpaperchanger_change_wallpaper_from)
 
 # How to compile
-1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS/) on your Mac
+1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS) on your Mac
 2. `git clone https://github.com/captinc/WallpaperChanger.git ./WallpaperChanger-master`
 3. `cd ./WallpaperChanger-master`
 4. `make package`
