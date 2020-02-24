@@ -18,4 +18,4 @@ Repo: [https://captinc.github.io](https://captinc.github.io)
 A .deb will now be in the "WallpaperChanger-master/packages" folder
 
 # License
-Please do not repackage my tweak, call it your own, and then redistribute it. You can use individual parts of my code for your own non-commercial projects. There is no warranty. If you have any questions, [PM me on Reddit](https://www.reddit.com/message/compose/?to=captinc37&subject=GitHub%20question)
+Please do not verbatim copy my tweak, call it your own, and redistribute it. You can use individual parts of my code for your own non-commercial projects. There is no warranty. If you have any questions, [PM me on Reddit](https://www.reddit.com/message/compose/?to=captinc37&subject=GitHub%20question)
